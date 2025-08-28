@@ -1,0 +1,18 @@
+# VS / VSCode temp files
+.vs/
+.vscode/
+*.code-workspace
+
+# Build outputs
+/build/
+*.exe
+*.out
+*.obj
+*.o
+*.pdb
+*.ilk
+*.dll
+
+# OS files
+.DS_Store
+Thumbs.db
